@@ -10,7 +10,7 @@ Este es un proyecto que he realizado por cuenta propia.
 * Se utilizan los escaladores Standard Scaler, Min Max Scaler y Robust Scaler con los modelos de regresión: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest y XGBoost.
 
 
-# [Proyecto 2: Life Expectancy Prediction](https://github.com/c-tong02/Portafolio-de-Analitica/blob/main/Life_Expectancy_Prediction.ipynb)
+# [Proyecto 2: Life Expectancy Prediction](https://github.com/c-tong02/Life-Expectancy-Prediction)
 
 Este es un proyecto que he realizado por cuenta propia.
 
