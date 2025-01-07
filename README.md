@@ -1,7 +1,7 @@
 # Portafolio Data Analytics
 Portafolio personal de proyectos de analítica de datos.
 
-# [Proyecto 1: Boston House Prices](https://github.com/c-tong02/Portafolio-de-Analitica/blob/main/Boston_House_Prices.ipynb)
+# [Proyecto 1: Boston House Prices](https://github.com/c-tong02/Boston-House-Prices)
 
 Este es un proyecto que he realizado por cuenta propia.
 
