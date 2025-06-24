@@ -34,4 +34,12 @@ Este es un proyecto que he realizado por cuenta propia.
 
 * La base de datos utilizada para este proyecto está basada en el último censo del 2019.
 * El EDA incluye el análisis de valores nulos y transformación de datos.
-* Se utilizaron diversas herramientas para hacer el dashboard lo más amigable posible con el usuario.
+* Se utilizó Power BI para hacer el dashboard lo más amigable posible con el usuario.
+
+# [Proyecto 5: Análisis de ventas](https://github.com/c-tong02/analisis_ordenes_ventas)
+
+Este es un proyecto que he realizado por cuenta propia.
+
+* La base de datos fue tomada de Kaggle: https://www.kaggle.com/datasets/ankitbansal06/retail-orders/data.
+* El EDA incluye el análisis de valores nulos y transformación de datos.
+* Se utilizó Python para el EDA y SQL Server para el análisis de insights para el negocio.
